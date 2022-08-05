@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/ericterpstra/anagrammatix/issues"
   },
+  "engines": {
+    "node": "13.x"
+  },
   "homepage": "https://github.com/ericterpstra/anagrammatix"
 }
